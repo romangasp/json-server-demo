@@ -1,0 +1,285 @@
+{
+  "projects": [
+    {
+      "project": "C4035-C",
+      "description": "HTN CILP 4035",
+      "client": "YPF",
+      "bussiness": "I&SC-DW-PQ-EE",
+      "activationCoordinator": "Gustavo",
+      "IandSCoordinator": "Federico",
+      "status": "En curso",
+      "startDate": "15/10/2021",
+      "endDate": "DD/MM/AA"
+    },
+    {
+      "project": "C4318-C",
+      "description": "MEGA NTF",
+      "client": "YPF",
+      "bussiness": "I&SC-DW-PQ-EE",
+      "activationCoordinator": "Gustavo",
+      "IandSCoordinator": "Federico",
+      "status": "En curso",
+      "startDate": "15/10/2021",
+      "endDate": "DD/MM/AA"
+    },
+    {
+      "project": "C4397-C",
+      "description": "MEGA NTF",
+      "client": "YPF",
+      "bussiness": "I&C-DW-P1-EE",
+      "activationCoordinator": "Carlos",
+      "IandSCoordinator": "Federico",
+      "status": "Terminado",
+      "startDate": "15/12/2021",
+      "endDate": "DD/MM/AA"
+    },
+    {
+      "project": "C3135-A",
+      "description": "HTN CILP 4035",
+      "client": "YPF",
+      "bussiness": "I&SC-DW-PQ-EE",
+      "activationCoordinator": "Omar",
+      "IandSCoordinator": "Guillermo",
+      "status": "En curso",
+      "startDate": "25/09/2020",
+      "endDate": "DD/MM/AA"
+    },
+    {
+      "project": "C4237-C",
+      "description": "MEGA NTF",
+      "client": "YPF",
+      "bussiness": "I&C-DW-P1-EE",
+      "activationCoordinator": "Carlos",
+      "IandSCoordinator": "Federico",
+      "status": "Terminado",
+      "startDate": "06/02/2019",
+      "endDate": "DD/MM/AA"
+    },
+    {
+      "project": "C2257-B",
+      "description": "MEGA NTF",
+      "client": "YPF",
+      "bussiness": "I&SC-DW-PQ-EE",
+      "activationCoordinator": "Omar",
+      "IandSCoordinator": "Federico",
+      "status": "En curso",
+      "startDate": "15/10/2021",
+      "endDate": "DD/MM/AA"
+    },
+    {
+      "project": "C6937-A",
+      "description": "MEGA NTF",
+      "client": "YPF",
+      "bussiness": "I&C-DW-P1-EE",
+      "activationCoordinator": "Osvaldo",
+      "IandSCoordinator": "Anibal",
+      "status": "Terminado",
+      "startDate": "18/08/2020",
+      "endDate": "DD/MM/AA"
+    },
+    {
+      "project": "C4357-C",
+      "description": "MEGA NTF",
+      "client": "YPF",
+      "bussiness": "I&C-DW-P1-EE",
+      "activationCoordinator": "Osvaldo",
+      "IandSCoordinator": "Federico",
+      "status": "Terminado",
+      "startDate": "12/12/2021",
+      "endDate": "DD/MM/AA"
+    },
+    {
+      "project": "C3435-C",
+      "description": "HTN CILP 4035",
+      "client": "YPF",
+      "bussiness": "I&SC-DW-PQ-EE",
+      "activationCoordinator": "Marcos",
+      "IandSCoordinator": "Gaston",
+      "status": "En curso",
+      "startDate": "25/09/2020",
+      "endDate": "DD/MM/AA"
+    },
+    {
+      "project": "C5357-C",
+      "description": "MEGA NTF",
+      "client": "YPF",
+      "bussiness": "I&C-DW-P1-EE",
+      "activationCoordinator": "Osvaldo",
+      "IandSCoordinator": "Federico",
+      "status": "Terminado",
+      "startDate": "02/12/2021",
+      "endDate": "DD/MM/AA"
+    }
+  ],
+  "closeProjects": [
+    {
+      "project": "C4317-C",
+      "description": "MEGA NTF",
+      "client": "YPF",
+      "bussiness": "I&C-DW-P1-EE",
+      "activationCoordinator": "Carlos",
+      "IandSCoordinator": "Federico",
+      "status": "Terminado",
+      "startDate": "15/12/2021",
+      "endDate": "DD/MM/AA"
+    },
+    {
+      "project": "C4237-C",
+      "description": "MEGA NTF",
+      "client": "YPF",
+      "bussiness": "I&C-DW-P1-EE",
+      "activationCoordinator": "Carlos",
+      "IandSCoordinator": "Federico",
+      "status": "Terminado",
+      "startDate": "06/02/2019",
+      "endDate": "DD/MM/AA"
+    },
+    {
+      "project": "C6937-A",
+      "description": "MEGA NTF",
+      "client": "YPF",
+      "bussiness": "I&C-DW-P1-EE",
+      "activationCoordinator": "Osvaldo",
+      "IandSCoordinator": "Anibal",
+      "status": "Terminado",
+      "startDate": "18/08/2020",
+      "endDate": "DD/MM/AA"
+    },
+    {
+      "project": "C4357-C",
+      "description": "MEGA NTF",
+      "client": "YPF",
+      "bussiness": "I&C-DW-P1-EE",
+      "activationCoordinator": "Osvaldo",
+      "IandSCoordinator": "Federico",
+      "status": "Terminado",
+      "startDate": "12/12/2021",
+      "endDate": "DD/MM/AA"
+    },
+    {
+      "project": "C4397-C",
+      "description": "MEGA NTF",
+      "client": "YPF",
+      "bussiness": "I&C-DW-P1-EE",
+      "activationCoordinator": "Carlos",
+      "IandSCoordinator": "Federico",
+      "status": "Terminado",
+      "startDate": "15/12/2021",
+      "endDate": "DD/MM/AA"
+    },
+    {
+      "project": "C5357-C",
+      "description": "MEGA NTF",
+      "client": "YPF",
+      "bussiness": "I&C-DW-P1-EE",
+      "activationCoordinator": "Osvaldo",
+      "IandSCoordinator": "Federico",
+      "status": "Terminado",
+      "startDate": "02/12/2021",
+      "endDate": "DD/MM/AA"
+    },
+    {
+      "project": "C9007-C",
+      "description": "MEGA NTF",
+      "client": "YPF",
+      "bussiness": "I&C-DW-P1-EE",
+      "activationCoordinator": "Oscar",
+      "IandSCoordinator": "Guillermo",
+      "status": "Terminado",
+      "startDate": "09/04/2019",
+      "endDate": "DD/MM/AA"
+    }
+  ],
+  "openProjects": [
+    {
+      "project": "C4035-C",
+      "description": "HTN CILP 4035",
+      "client": "YPF",
+      "bussiness": "I&SC-DW-PQ-EE",
+      "activationCoordinator": "Gustavo",
+      "IandSCoordinator": "Federico",
+      "status": "En curso",
+      "startDate": "15/10/2021",
+      "endDate": "DD/MM/AA"
+    },
+    {
+      "project": "C4317-C",
+      "description": "MEGA NTF",
+      "client": "YPF",
+      "bussiness": "I&SC-DW-PQ-EE",
+      "activationCoordinator": "Gustavo",
+      "IandSCoordinator": "Federico",
+      "status": "En curso",
+      "startDate": "15/10/2021",
+      "endDate": "DD/MM/AA"
+    },
+    {
+      "project": "C3135-A",
+      "description": "HTN CILP 4035",
+      "client": "YPF",
+      "bussiness": "I&SC-DW-PQ-EE",
+      "activationCoordinator": "Omar",
+      "IandSCoordinator": "Guillermo",
+      "status": "En curso",
+      "startDate": "25/09/2020",
+      "endDate": "DD/MM/AA"
+    },
+    {
+      "project": "C2257-B",
+      "description": "MEGA NTF",
+      "client": "YPF",
+      "bussiness": "I&SC-DW-PQ-EE",
+      "activationCoordinator": "Omar",
+      "IandSCoordinator": "Federico",
+      "status": "En curso",
+      "startDate": "15/10/2021",
+      "endDate": "DD/MM/AA"
+    },
+    {
+      "project": "C3435-C",
+      "description": "HTN CILP 4035",
+      "client": "YPF",
+      "bussiness": "I&SC-DW-PQ-EE",
+      "activationCoordinator": "Marcos",
+      "IandSCoordinator": "Gaston",
+      "status": "En curso",
+      "startDate": "25/09/2020",
+      "endDate": "DD/MM/AA"
+    },
+    {
+      "project": "C1035-C",
+      "description": "HTN CILP 4035",
+      "client": "YPF",
+      "bussiness": "I&SC-DW-PQ-EE",
+      "activationCoordinator": "Marcos",
+      "IandSCoordinator": "Gaston",
+      "status": "En curso",
+      "startDate": "15/12/2021",
+      "endDate": "DD/MM/AA"
+    }
+  ],
+    "projectsPage": [
+      {
+        "project": "C9007-C",
+        "description": "MEGA NTF",
+        "client": "YPF",
+        "bussiness": "I&C-DW-P1-EE",
+        "activationCoordinator": "Oscar",
+        "IandSCoordinator": "Guillermo",
+        "status": "Terminado",
+        "startDate": "09/04/2019",
+        "endDate": "DD/MM/AA"
+      },
+      {
+        "project": "C1035-C",
+        "description": "HTN CILP 4035",
+        "client": "YPF",
+        "bussiness": "I&SC-DW-PQ-EE",
+        "activationCoordinator": "Marcos",
+        "IandSCoordinator": "Gaston",
+        "status": "En curso",
+        "startDate": "15/12/2021",
+        "endDate": "DD/MM/AA"
+      }
+  ]
+}
