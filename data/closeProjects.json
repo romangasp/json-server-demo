@@ -1,16 +1,5 @@
  [
     {
-      "project": "C4317-C",
-      "description": "MEGA NTF",
-      "client": "YPF",
-      "bussiness": "I&C-DW-P1-EE",
-      "activationCoordinator": "Carlos",
-      "IandSCoordinator": "Federico",
-      "status": "Terminado",
-      "startDate": "15/12/2021",
-      "endDate": "DD/MM/AA"
-    },
-    {
       "project": "C4237-C",
       "description": "MEGA NTF",
       "client": "YPF",
